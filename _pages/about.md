@@ -20,10 +20,13 @@ Academic Background
 ======
 • 2017 - 2021 WA School of Mines, Curtin University (PhD), Mining and Metallurgical Engineering  
   (Supervisor: Prof Jacques Eksteen & A/Prof Elsayed Oraby)  
+  
 • 2016 - 2017 Dept. of Mechanical and Biomedical Engineering, City University of Hong Kong (PhD, withdrawn), Biomedical Engineering  
   (Supervisor: A/Prof Ting-Hsuan Chen)  
+  
 • 2013 - 2016 School of Chemical Engineering, Fuzhou University (MSc), Chemical Engineering  
   (Supervisor: Prof Ge Kuang)  
+  
 • 2009 - 2013 School of Chemistry and Chemical Engineering, North Minzu University (BSc), Pharmaceutical Engineering  
 
 Research Interests
@@ -35,9 +38,11 @@ Research Interests
 Postgraduate Thesis Under Supervision
 ======
 PhD students  
+------
 1. Sustainable recycling of photovoltaic modules using green process (2024-2028)  
-2. High-value recycling of LFP batteries (2023-2029)
+2. High-value recycling of LFP batteries (2023-2027)
 
 Master’s students  
+------
 1. Recovery of base metals from waste PCBs using organic ammines (2023-2026)
 2. Recovery of metals from NCM batteries using sustainable hydrometallurgical methods (2024-2027)
