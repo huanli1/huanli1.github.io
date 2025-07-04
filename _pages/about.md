@@ -7,4 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-My research focuses on the extraction, separation, and recovery of critical metals, base metals, and precious metals from natural mineral resources and anthropogenic solid waste. Aiming to meet the demands of the energy transition and decarbonisation, I have been developing environmentally friendly, clean, and efficient extraction metallurgy technologies and processes. The research is centred on objectives such as non-toxic/low-toxicity, low energy consumption, short process routes, minimal waste generation, and economic viability, with innovations in methods and processes for both improving traditional inorganic acid hydrometallurgy systems and developing next-generation green hydrometallurgical approaches. This research spans interdisciplinary fields including chemistry, environmental science, mineral engineering, and metallurgical engineering.
+In 2021, I earned a PhD in Mining and Metallurgical Engineering from the WA School of Mines, Curtin University (Australia), followed by a three-year postdoctoral training. My research focuses on the extraction, separation, and recovery of critical metals, base metals, and precious metals from both natural mineral resources and anthropogenic solid waste streams.
+
+Driven by the global imperatives of energy transition and decarbonization, my work is dedicated to developing environmentally benign, clean, and efficient extraction metallurgy technologies and processes. The research is guided by objectives of non-toxic/low-toxicity reagents, low energy consumption, shortened process routes, minimal waste generation, and economic feasibility. This involves two key innovation directions:
+
+1. Upgrading traditional inorganic acid hydrometallurgy systems through method and process optimisation;
+2. Developing next-generation green hydrometallurgical approaches that integrate cutting-edge sustainable technologies.
+
+My research is interdisciplinary, spanning chemistry, environmental science, mineral engineering, and metallurgical engineering, aiming to bridge fundamental science with industrial applications for sustainable resource management.
+
