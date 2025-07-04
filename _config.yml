@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Homepage"
+title                    : "HUAN LI"
 title_separator          : "-"
 name                     : &name "Huan Li"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Huan Li"
+  name             : "Huan   Li"
   pronouns         : # example: "he/him"  
   bio              : #"PhD in Mining and Metallurgical Engineering"
   location         : #"Guangzhou, China"
@@ -38,7 +38,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-8957-5377"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Huan-Li-86?ev=hdr_xprf"
   scopus           : # URL
 
