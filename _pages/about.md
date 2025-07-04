@@ -36,6 +36,7 @@ Postgraduate Thesis Under Supervision
 ======
 PhD students  
 1. Sustainable recycling of photovoltaic modules using green process (2024-2028)  
-2. High-value recycling of LFP batteries (2023-2029)  
+2. High-value recycling of LFP batteries (2023-2029)
+
 Master’s students  
 1. Recovery of base metals from waste PCBs using organic ammines (2023-2026)  
