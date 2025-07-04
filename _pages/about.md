@@ -7,31 +7,31 @@ redirect_from:
   - /about.html
 ---
 
-In 2021, I obtained a PhD in Mining and Metallurgical Engineering from the WA School of Mines, Curtin University (Australia), followed by a three-year postdoctoral training. My research focuses on the extraction, separation, and recovery of critical metals, base metals, and precious metals from both natural mineral resources and anthropogenic solid waste streams.
+In 2021, I obtained a PhD in Mining and Metallurgical Engineering from the WA School of Mines, Curtin University (Australia), followed by a three-year postdoctoral training. My research focuses on the extraction, separation, and recovery of **critical**, **base**, and **precious** metals from both natural mineral resources and anthropogenic solid waste streams.
 
-Driven by the global imperatives of energy transition and decarbonization, my work is dedicated to developing environmentally benign, clean, and efficient extraction metallurgy technologies and processes. The research is guided by objectives of non-toxic/low-toxicity reagents, low energy consumption, shortened process routes, minimal waste generation, and economic feasibility. This involves two key innovation directions:
+Driven by the global imperatives of **energy transition** and **decarbonization**, my work is dedicated to developing environmentally benign, clean, and efficient extraction metallurgy technologies and processes. The research is guided by objectives of **non-toxic/low-toxicity reagents, low energy consumption, shortened process routes, minimal waste generation, and economic feasibility**. This involves two key innovation directions:
 
 1. Upgrading traditional inorganic acid hydrometallurgy systems through method and process optimisation;
 2. Developing next-generation green hydrometallurgical approaches that integrate cutting-edge sustainable technologies.
 
 Academic Background
 ======
-• 2017 - 2021 Curtin University (PhD), Mining and Metallurgical Engineering  
+- **2017 - 2021** Curtin University (PhD), Mining and Metallurgical Engineering  
    (Supervisor: Prof Jacques Eksteen & A/Prof Elsayed Oraby)  
   
-• 2016 - 2017 City University of Hong Kong (PhD, withdrawn), Biomedical Engineering  
+- **2016 - 2017** City University of Hong Kong (PhD, withdrawn), Biomedical Engineering  
    (Supervisor: A/Prof Ting-Hsuan Chen)  
   
-• 2013 - 2016 Fuzhou University (MSc), Chemical Engineering  
+- **2013 - 2016** Fuzhou University (MSc), Chemical Engineering  
    (Supervisor: Prof Ge Kuang)  
   
-• 2009 - 2013 North Minzu University (BSc), Pharmaceutical Engineering  
+- **2009 - 2013** North Minzu University (BSc), Pharmaceutical Engineering  
 
 Research Interests
 ======
-•	Battery and energy metals extraction & refining from primary resources  
-•	Base and precious metals recovery from refractory resources  
-•	Chemical recycling of metal-bearing solid waste  
+-	Battery and energy metals extraction & refining from primary resources  
+-	Base and precious metals recovery from refractory resources  
+-	Chemical recycling of metal-bearing solid waste  
 
 Postgraduate Thesis Under Supervision
 ======
