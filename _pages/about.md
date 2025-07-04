@@ -16,16 +16,16 @@ Driven by the global imperatives of energy transition and decarbonization, my wo
 
 Academic Background
 ======
-• 2017 - 2021 WA School of Mines, Curtin University (PhD), Mining and Metallurgical Engineering  
+• 2017 - 2021 Curtin University (PhD), Mining and Metallurgical Engineering  
    (Supervisor: Prof Jacques Eksteen & A/Prof Elsayed Oraby)  
   
-• 2016 - 2017 Dept. of Biomedical Engineering, City University of Hong Kong (PhD, withdrawn), Biomedical Engineering  
+• 2016 - 2017 City University of Hong Kong (PhD, withdrawn), Biomedical Engineering  
    (Supervisor: A/Prof Ting-Hsuan Chen)  
   
-• 2013 - 2016 School of Chemical Engineering, Fuzhou University (MSc), Chemical Engineering  
+• 2013 - 2016 Fuzhou University (MSc), Chemical Engineering  
    (Supervisor: Prof Ge Kuang)  
   
-• 2009 - 2013 School of Chemistry and Chemical Engineering, North Minzu University (BSc), Pharmaceutical Engineering  
+• 2009 - 2013 North Minzu University (BSc), Pharmaceutical Engineering  
 
 Research Interests
 ======
