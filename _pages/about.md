@@ -18,10 +18,16 @@ My research is interdisciplinary, spanning chemistry, environmental science, min
 
 Academic Background
 ======
-• 2017 - 2021 WA School of Mines, Curtin University (PhD), Mining and Metallurgical Engineering
-  (Supervisor: Prof Jacques Eksteen & A/Prof Elsayed Oraby)
-• 2016 - 2017 Department of Mechanical and Biomedical Engineering, City University of Hong Kong (PhD, withdrawn), Biomedical Engineering
-  (Supervisor: A/Prof Ting-Hsuan Chen)
-• 2013 - 2016 School of Chemical Engineering, Fuzhou University (MSc), Chemical Engineering
-  (Supervisor: Prof Ge Kuang)
-• 2009 - 2013 School of Chemistry and Chemical Engineering, North Minzu University (BSc), Pharmaceutical Engineering
+• 2017 - 2021 WA School of Mines, Curtin University (PhD), Mining and Metallurgical Engineering  
+  (Supervisor: Prof Jacques Eksteen & A/Prof Elsayed Oraby)  
+• 2016 - 2017 Dept. of Mechanical and Biomedical Engineering, City University of Hong Kong (PhD, withdrawn), Biomedical Engineering  
+  (Supervisor: A/Prof Ting-Hsuan Chen)  
+• 2013 - 2016 School of Chemical Engineering, Fuzhou University (MSc), Chemical Engineering  
+  (Supervisor: Prof Ge Kuang)  
+• 2009 - 2013 School of Chemistry and Chemical Engineering, North Minzu University (BSc), Pharmaceutical Engineering  
+
+Research Interests
+======
+•	Battery and energy metals extraction & refining from primary resources  
+•	Base and precious metals recovery from refractory resources  
+•	Chemical recycling of metal-bearing solid waste  
