@@ -9,7 +9,7 @@ redirect_from:
 
 In 2021, I obtained a PhD in Mining and Metallurgical Engineering from the WA School of Mines, Curtin University (Australia), followed by a three-year postdoctoral training. My research focuses on the extraction, separation, and recovery of **critical**, **base**, and **precious** metals from both natural mineral resources and anthropogenic solid waste streams.
 
-Driven by the global imperatives of **energy transition** and **decarbonization**, my work is dedicated to developing environmentally benign, clean, and efficient extraction metallurgy technologies and processes. The research is guided by objectives of **non-toxic/low-toxicity reagents, low energy consumption, shortened process routes, minimal waste generation, and economic feasibility**. This involves two key innovation directions:
+Driven by the global imperatives of **energy transition** and **decarbonization**, my work is dedicated to developing environmentally benign, clean, and efficient extraction metallurgy technologies and processes. The research is guided by objectives of **non-toxic/low-toxicity** reagents, **low** energy consumption, **shortened** process routes, **minimal** waste generation, and **economic feasibility**. This involves two key innovation directions:
 
 1. Upgrading traditional inorganic acid hydrometallurgy systems through method and process optimisation;
 2. Developing next-generation green hydrometallurgical approaches that integrate cutting-edge sustainable technologies.
@@ -36,11 +36,11 @@ Research Interests
 Postgraduate Thesis Under Supervision
 ======
 PhD students  
--------
-1. Sustainable recycling of photovoltaic modules using green process (2024-2028)  
-2. High-value recycling of LFP batteries (2023-2027)
+------
+1. Sustainable recycling of photovoltaic modules using green process (2024-2027)  
+2. High-value and efficient recycling of LFP batteries towards circular economy (2023-2026)
 
 Master’s students  
 ------
-1. Recovery of base metals from waste PCBs using organic ammines (2023-2026)
-2. Recovery of metals from NCM batteries using sustainable hydrometallurgical methods (2024-2027)
+1. Cleaner recovery of base metals from electronic waste using organic ammines (2024-2026)
+2. Recovery of metals from NCM batteries using sustainable hydrometallurgical methods (2025-2027)
