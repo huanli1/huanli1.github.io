@@ -36,7 +36,7 @@ Research Interests
 Postgraduate Thesis Under Supervision
 ======
 PhD students  
-------
+-------
 1. Sustainable recycling of photovoltaic modules using green process (2024-2028)  
 2. High-value recycling of LFP batteries (2023-2027)
 
