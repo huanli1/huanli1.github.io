@@ -60,8 +60,23 @@ Driven by the global imperatives of **energy transition** and **decarbonization*
 1. 2021 – 2022, Engineering Industry Research Project (ENGR4000 and ENGR4001), Curtin University. Report and presentation marking, final year project supervision.
 2. 2025 – present, Frontiers of Energy Conservation and Environmental Protection Technologies, University of Science and Technology of China. Co-lecturing.
 
+# Academic Services
+## Early-Career Editor Board 
+-	Carbon Neutralization (IF=12, JCR Q1, Wiley)
+-	Transactions of Nonferrous Metals Society of China (IF=4.7, JCR Q1, Elsevier)
+-	Green and Smart Mining Engineering (Elsevier)
+## Guest Editor
+-	Special Issue for Minerals (IF: 2.2, JCR Q2) 
+-	Special Issue for Sustainability (IF: 3.3, JCR Q2)
+## Conference Services
+-	Committee Member, 14th International Conference on Process Hydrometallurgy (Santiago, Chile)
+- Committee Member, 15th International Conference on Process Hydrometallurgy (Santiago, Chile)
+## As Reviewer
+-	Mathematics of Information Technology and Complex Systems (Mitacs), Canada
+-	Ad hoc reviewer for about 20 academic journals
+
 # Journal publications 
-For full list of my publication, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=XGel0o0AAAAJ&hl=en) .
+For a full list of my publications, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=XGel0o0AAAAJ&hl=en).
 ## 2025
 - **Huan Li**; Elsayed Oraby, Jacques Eksteen, et al.; Extraction of precious metals from waste printed circuit boards using alkaline ferricyanide solutions: An exploratory study, Minerals Engineering 2025, 222: 109144 (IF=5, JCR Q1). 
 -	**Huan Li**; Elsayed Oraby; Jacques Eksteen; An alternative amino acid leaching of base metals from waste printed circuit boards using alkaline glutamate solutions: A comparative study with glycine, Separation and Purification Technology, 2025, 356, B: 129953 (IF=9, JCR Q1).
@@ -99,3 +114,26 @@ For full list of my publication, please refer to my [Google Scholar profile](htt
 -	旷戈；胡松；蔡洋洋；**李欢**; 紫金铜尾矿中明矾石直接加压酸浸. 中国有色金属学报, 2016, 26(11): 2412-2419.
 ## 2015
 -	Ge Kuang; **Huan Li**; Song Hu; Ran Jin; Shanjun Liu; Hui Guo; Recovery of aluminium and lithium from gypsum residue obtained in the process of lithium extraction from lepidolite. Hydrometallurgy, 2015, 157: 214-218 (IF=5.3, JCR Q1).
+
+# Conference presentations
+- 2025 INTERNATIONAL CONFERENCE ON RESOURCE SUSTAINABILITY (ICRS 2025)  
+15-18 July 2025	                Adelaide, Australia  
+Sustainable Recovery of Silver from Waste Photovoltaic Cells Using Alpha-Amino Acids  
+Li H. (speaker), Gu J., Xie W., Xie J., Yuan H., Eksteen J.
+
+
+- 27TH ALTA METALLURGICAL CONFERENCE  
+1-4 May 2023	                Perth, Australia  
+Process Development for Hydrometallurgical Recovery of Base and Precious Metals from Waste Printed Circuit Boards  
+Li H. (speaker), Oraby E. Eksteen J.
+
+- LITHIUM BATTERY AND ENERGY METALS CONFERENCE  
+01-02 September 2021					Perth, Australia  
+Overview of lithium recovery from hard rocks using fluorochemical processes: Our experiences in a decade  
+Li H. (speaker), Eksteen J., Kuang G., Guo H.
+
+- INTERNATIONAL LITHIUM AND BATTERY METALS CONFERENCE  
+03-04 July 2019					Perth, Australia  
+Recovery of lithium from mineral resources: State-of-the-art and perspectives  
+Li H. (speaker), Eksteen J., Ge K.
+
