@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Extraction of precious metals from waste printed circuit boards using alkaline ferricyanide solutions: An exploratory study."
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
