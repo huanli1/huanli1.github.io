@@ -1,6 +1,6 @@
 <img width="468" height="13" alt="image" src="https://github.com/user-attachments/assets/c093d8e6-5536-4277-8f29-e491939d1346" />---
 permalink: /
-title: "about"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -66,8 +66,8 @@ Journal publications
 2.	Huan Li; Elsayed Oraby; Jacques Eksteen; An alternative amino acid leaching of base metals from waste printed circuit boards using alkaline glutamate solutions: A comparative study with glycine, Separation and Purification Technology, 2025, 356, B: 129953 (IF=9, JCR Q1).
 3.	Yang, Yakai, Hao Zhang, Ge Kuang, Huan Li, et al.; Ultrasonic-assisted alkali leaching coupled gas sorting process to separate cathode and anode materials from spent LiFePO4 batteries, Chemical Engineering and Processing-Process Intensification, 2025, 209: 110207.
 4.	Huan Li; Elsayed Oraby; Jacques Eksteen; Application of nanofiltration for the recovery of nickel glycinates from alkaline glycine-based solutions using polyamide membranes: A technical note, Hydrometallurgy, 2024, 228: 106368 (IF=5.3, JCR Q1).
-5.	Elsayed Oraby; Huan Li; Zixian Deng; Jacques Eksteen; Selective extraction of Ni and Co from a pyrrhotite-rich flotation slime using an alkaline glycine-based leach system. Minerals Engineering ,2023, 203: 108330.
-6.	Elsayed Oraby; Zixian Deng; Huan Li; Jacques Eksteen; Selective extraction of nickel and cobalt from disseminated sulfide flotation cleaner tailings using alkaline glycine-ammonia leaching solutions. Minerals Engineering ,2023, 204: 108418.
+5.	Elsayed Oraby; Huan Li; Zixian Deng; Jacques Eksteen; Selective extraction of Ni and Co from a pyrrhotite-rich flotation slime using an alkaline glycine-based leach system. Minerals Engineering, 2023, 203: 108330.
+6.	Elsayed Oraby; Zixian Deng; Huan Li; Jacques Eksteen; Selective extraction of nickel and cobalt from disseminated sulfide flotation cleaner tailings using alkaline glycine-ammonia leaching solutions. Minerals Engineering,2023, 204: 108418.
 7.	Huan Li; Elsayed Oraby; G. A. Bezuidenhout; Jacques Eksteen; The Leaching of Palladium from Polymetallic Oxide Ores using Alkaline Ferricyanide Solutions, Miner. Process. Extr. Metall. Rev., 2023, https://doi.org/10.1080/08827508.2023.2243013(IF=4.6, JCR Q1).
 8.	Huan Li; Zixian Deng; Elsayed Oraby; Jacques Eksteen; Amino acids as lixiviants for metals extraction from natural and secondary resources with emphasis on glycine: A literature review. Hydrometallurgy 2022, 216: 106008 (IF=5.3, JCR Q1).
 9.	Huan Li; Elsayed A. Oraby; Jacques J. Eksteen; Development of an integrated glycine-based process for base and precious metals recovery from waste printed circuit boards, Resources, Conservation and Recycling, 2022, 187: 106631 (IF=10.9, JCR Q1).
