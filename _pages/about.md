@@ -62,33 +62,35 @@ Driven by the global imperatives of **energy transition** and **decarbonization*
 
 # Journal publications 
 ## 2025
-1. **Huan Li**; Elsayed Oraby, Jacques Eksteen, et al.; Extraction of precious metals from waste printed circuit boards using alkaline ferricyanide solutions: An exploratory study, Minerals Engineering 2025, 222: 109144 (IF=5, JCR Q1). 
-2.	**Huan Li**; Elsayed Oraby; Jacques Eksteen; An alternative amino acid leaching of base metals from waste printed circuit boards using alkaline glutamate solutions: A comparative study with glycine, Separation and Purification Technology, 2025, 356, B: 129953 (IF=9, JCR Q1).
-3.	Yang, Yakai, Hao Zhang, Ge Kuang, **Huan Li**, et al.; Ultrasonic-assisted alkali leaching coupled gas sorting process to separate cathode and anode materials from spent LiFePO4 batteries, Chemical Engineering and Processing-Process Intensification, 2025, 209: 110207.
+26. **Huan Li**; Elsayed Oraby, Jacques Eksteen, et al.; Extraction of precious metals from waste printed circuit boards using alkaline ferricyanide solutions: An exploratory study, Minerals Engineering 2025, 222: 109144 (IF=5, JCR Q1). 
+25.	**Huan Li**; Elsayed Oraby; Jacques Eksteen; An alternative amino acid leaching of base metals from waste printed circuit boards using alkaline glutamate solutions: A comparative study with glycine, Separation and Purification Technology, 2025, 356, B: 129953 (IF=9, JCR Q1).
+24.	Yang, Yakai, Hao Zhang, Ge Kuang, **Huan Li**, et al.; Ultrasonic-assisted alkali leaching coupled gas sorting process to separate cathode and anode materials from spent LiFePO4 batteries, Chemical Engineering and Processing-Process Intensification, 2025, 209: 110207.
 ## 2024
-5.	**Huan Li**; Elsayed Oraby; Jacques Eksteen; Application of nanofiltration for the recovery of nickel glycinates from alkaline glycine-based solutions using polyamide membranes: A technical note, Hydrometallurgy, 2024, 228: 106368 (IF=5.3, JCR Q1).
+23.	**Huan Li**; Elsayed Oraby; Jacques Eksteen; Application of nanofiltration for the recovery of nickel glycinates from alkaline glycine-based solutions using polyamide membranes: A technical note, Hydrometallurgy, 2024, 228: 106368 (IF=5.3, JCR Q1).
 ## 2023
-6.	Elsayed Oraby; **Huan Li**; Zixian Deng; Jacques Eksteen; Selective extraction of Ni and Co from a pyrrhotite-rich flotation slime using an alkaline glycine-based leach system. Minerals Engineering, 2023, 203: 108330.
-7.	Elsayed Oraby; Zixian Deng; **Huan Li**; Jacques Eksteen; Selective extraction of nickel and cobalt from disseminated sulfide flotation cleaner tailings using alkaline glycine-ammonia leaching solutions. Minerals Engineering,2023, 204: 108418.
-8.	**Huan Li**; Elsayed Oraby; G. A. Bezuidenhout; Jacques Eksteen; The Leaching of Palladium from Polymetallic Oxide Ores using Alkaline Ferricyanide Solutions, Miner. Process. Extr. Metall. Rev., 2023, https://doi.org/10.1080/08827508.2023.2243013(IF=4.6, JCR Q1).
+22.	Elsayed Oraby; **Huan Li**; Zixian Deng; Jacques Eksteen; Selective extraction of Ni and Co from a pyrrhotite-rich flotation slime using an alkaline glycine-based leach system. Minerals Engineering, 2023, 203: 108330.
+21.	Elsayed Oraby; Zixian Deng; **Huan Li**; Jacques Eksteen; Selective extraction of nickel and cobalt from disseminated sulfide flotation cleaner tailings using alkaline glycine-ammonia leaching solutions. Minerals Engineering,2023, 204: 108418.
+20.	**Huan Li**; Elsayed Oraby; G. A. Bezuidenhout; Jacques Eksteen; The Leaching of Palladium from Polymetallic Oxide Ores using Alkaline Ferricyanide Solutions, Miner. Process. Extr. Metall. Rev., 2023, https://doi.org/10.1080/08827508.2023.2243013(IF=4.6, JCR Q1).
 ## 2022
-9.	**Huan Li**; Zixian Deng; Elsayed Oraby; Jacques Eksteen; Amino acids as lixiviants for metals extraction from natural and secondary resources with emphasis on glycine: A literature review. Hydrometallurgy 2022, 216: 106008 (IF=5.3, JCR Q1).
-10.	**Huan Li**; Elsayed A. Oraby; Jacques J. Eksteen; Development of an integrated glycine-based process for base and precious metals recovery from waste printed circuit boards, Resources, Conservation and Recycling, 2022, 187: 106631 (IF=10.9, JCR Q1).
-11.	Zixian Deng; Elsayed Oraby; **Huan Li**; Jacques Eksteen; Extraction of Copper from Chalcopyrite Using Alkaline Glycine–Ammonia Solutions, Minerals, 2022, 12 (12): 1507.
-12.	**Huan Li**; Elsayed Oraby; Jacques Eksteen; Extraction of precious metals from waste printed circuit boards using cyanide-free alkaline glycine solution in the presence of an oxidant, Minerals Engineering, 2022, 181: 107501 (IF=5, JCR Q1).
-13.	**Huan Li**; Elsayed Oraby; Jacques Eksteen; Tanmay Mali; Extraction of Gold and Copper from Flotation Tailings Using Glycine-Ammonia Solutions in the Presence of Permanganate, Minerals, 2022, 12(5): 612.
+19.	**Huan Li**; Zixian Deng; Elsayed Oraby; Jacques Eksteen; Amino acids as lixiviants for metals extraction from natural and secondary resources with emphasis on glycine: A literature review. Hydrometallurgy 2022, 216: 106008 (IF=5.3, JCR Q1).
+18.	**Huan Li**; Elsayed A. Oraby; Jacques J. Eksteen; Development of an integrated glycine-based process for base and precious metals recovery from waste printed circuit boards, Resources, Conservation and Recycling, 2022, 187: 106631 (IF=10.9, JCR Q1).
+17.	Zixian Deng; Elsayed Oraby; **Huan Li**; Jacques Eksteen; Extraction of Copper from Chalcopyrite Using Alkaline Glycine–Ammonia Solutions, Minerals, 2022, 12 (12): 1507.
+16.	**Huan Li**; Elsayed Oraby; Jacques Eksteen; Extraction of precious metals from waste printed circuit boards using cyanide-free alkaline glycine solution in the presence of an oxidant, Minerals Engineering, 2022, 181: 107501 (IF=5, JCR Q1).
+15.	**Huan Li**; Elsayed Oraby; Jacques Eksteen; Tanmay Mali; Extraction of Gold and Copper from Flotation Tailings Using Glycine-Ammonia Solutions in the Presence of Permanganate, Minerals, 2022, 12(5): 612.
+14.	王鹏；刘慧勇；黄海；旷戈；**李欢**; 基于钾明矾结晶热解的粉煤灰酸法生产氧化铝研究, 中国有色金属学报, 2022，32 (2): 509–520.
 ## 2021
-14.	Hui Guo, Ge Kuang, **Huan Li**, W Pei, H Wang; Enhanced lithium leaching from lepidolite in continuous tubular reactor using H2SO4 + H2SiF6 as lixiviant, Transactions of Nonferrous Metals Society of China 2021, 31 (7): 2165-2173.
-15.	**Huan Li**; Elsayed Oraby; Jacques Eksteen; Cyanide consumption minimisation and concomitant toxic effluent minimisation during precious metals extraction from waste printed circuit boards, Waste Management, 2021, 125: 87-97 (IF=7.1, JCR Q1).
-16.	**Huan Li**; Elsayed Oraby; Jacques Eksteen; Recovery of copper and the deportment of other base metals from alkaline glycine leachates derived from waste printed circuit boards (WPCBs), Hydrometallurgy, 2021, 199: 105540 (IF=5.3, JCR Q1).
+13.	Hui Guo, Ge Kuang, **Huan Li**, W Pei, H Wang; Enhanced lithium leaching from lepidolite in continuous tubular reactor using H2SO4 + H2SiF6 as lixiviant, Transactions of Nonferrous Metals Society of China 2021, 31 (7): 2165-2173.
+12.	**Huan Li**; Elsayed Oraby; Jacques Eksteen; Cyanide consumption minimisation and concomitant toxic effluent minimisation during precious metals extraction from waste printed circuit boards, Waste Management, 2021, 125: 87-97 (IF=7.1, JCR Q1).
+11.	**Huan Li**; Elsayed Oraby; Jacques Eksteen; Recovery of copper and the deportment of other base metals from alkaline glycine leachates derived from waste printed circuit boards (WPCBs), Hydrometallurgy, 2021, 199: 105540 (IF=5.3, JCR Q1).
+10.	Peng Wang; Huiyong Liu; Fangyan Zheng; Yue Liu; Ge Kuang; Rongdong Deng; **Huan Li**; Extraction of aluminum from coal fly ash using pressurized sulfuric acid leaching with emphasis on optimization and mechanism, JOM, 2021, 73: 2643–2651.
 ## 2020
-17.	Elsayed Oraby; **Huan Li**; Jacques Eksteen; An alkaline glycine-based leach process of base and precious metals from powdered waste printed circuit boards. Waste and Biomass Valorization, 2020, 11(8): 3897-3909.
-18.	**Huan Li**; Elsayed Oraby; Jacques Eksteen; Extraction of copper and the co-leaching behaviour of other metals from waste printed circuit boards using alkaline glycine solutions, Resources, Conservation and Recycling, 2020, 154: 104624 (IF=10.9, JCR Q1, cited >90 times).
+9.	Elsayed Oraby; **Huan Li**; Jacques Eksteen; An alkaline glycine-based leach process of base and precious metals from powdered waste printed circuit boards. Waste and Biomass Valorization, 2020, 11(8): 3897-3909.
+8.	**Huan Li**; Elsayed Oraby; Jacques Eksteen; Extraction of copper and the co-leaching behaviour of other metals from waste printed circuit boards using alkaline glycine solutions, Resources, Conservation and Recycling, 2020, 154: 104624 (IF=10.9, JCR Q1, cited >90 times).
 ## 2019
-19.	**Huan Li**; Jacques Eksteen; Ge Kuang; Recovery of lithium from mineral resources: State-of-the-art and perspectives – A review, Hydrometallurgy, 2019, 189: 105129 (IF=5.3, JCR Q1, cited >220 times).
+7.	**Huan Li**; Jacques Eksteen; Ge Kuang; Recovery of lithium from mineral resources: State-of-the-art and perspectives – A review, Hydrometallurgy, 2019, 189: 105129 (IF=5.3, JCR Q1, cited >220 times).
 ## 2018
-5.	**Huan Li**; Jacques Eksteen; Elsayed Oraby; Hydrometallurgical recovery of metals from waste printed circuit boards (WPCBs): Current status and perspectives: A review, Resources, Conservation and Recycling, 2018, 139: 122-139 (IF=10.9, JCR Q1, cited >320 times).
-4.	Ge Kuang; Yu Liu; **Huan Li**; Shengzhou Xing; Fujie Li; Hui Guo; Extraction of lithium from β-spodumene using sodium sulfate solution, Hydrometallurgy, 2018, 177: 49-56 (IF=5.3, JCR Q1).
+6.	**Huan Li**; Jacques Eksteen; Elsayed Oraby; Hydrometallurgical recovery of metals from waste printed circuit boards (WPCBs): Current status and perspectives: A review, Resources, Conservation and Recycling, 2018, 139: 122-139 (IF=10.9, JCR Q1, cited >320 times).
+5.	Ge Kuang; Yu Liu; **Huan Li**; Shengzhou Xing; Fujie Li; Hui Guo; Extraction of lithium from β-spodumene using sodium sulfate solution, Hydrometallurgy, 2018, 177: 49-56 (IF=5.3, JCR Q1).
 ## 2017
 4.	**Huan Li**; Shengzhou Xing; Yu Liu; Fujie Li; Hui Guo; Ge Kuang; Recovery of Lithium, Iron, and Phosphorus from Spent LiFePO4 Batteries Using Stoichiometric Sulfuric Acid Leaching System, ACS Sustainable Chemistry and Engineering, 2017, 5(9): 8017–8024 (IF=7.3, JCR Q1, ESI TOP 1% Highly Cited paper, cited >400 times).
 ## 2016
