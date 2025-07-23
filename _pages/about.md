@@ -15,48 +15,36 @@ Driven by the global imperatives of **energy transition** and **decarbonization*
 2. Developing next-generation green hydrometallurgical approaches that integrate cutting-edge sustainable technologies.
 
 # Research Interests
-
 -	Battery and energy metals extraction & refining from primary resources (lithium, nickel, cobalt, copper, gold, PGMs, etc.)
 -	Sustainable recycling of metal-bearing solid waste (e-waste, solar PV modules, EV batteries, etc.)
-  
-# Education
 
+# Education
 - **2017 - 2021** Ph.D. in Mining and Metallurgical Engineering
   Curtin University  
   **Thesis**: “Sustainable recovery of base and precious metals from waste printed circuit boards using alkaline glycine processes”  
   **Supervisors**: Prof Jacques Eksteen and A/Prof Elsayed Oraby
-
 - **2020 - 2021** Industry Mentee – Mining and Metallurgy
   Industry Mentoring Network in STEM (IMNIS), Australian Academy of Technology and Engineering  
   **Mentor**: Mr Chris Torrisi (Lynas Rare Earths Ltd)
-
 - **2016 - 2017** Ph.D. Program in Mechanical and Biomedical Engineering (withdrawn)
   City University of Hong Kong  
   **Supervisor**: A/Prof Ting-Hsuan Chen 
-  
 - **2013 - 2016** M.Eng. in Chemical Engineering (by research)
   Fuzhou University   
   **Thesis**: “Investigation of LiFePO<sub>4</sub>-based spent lithium-ion battery for the recovery of valuable metals”
   **Supervisor**: Prof Ge Kuang
-  
 - **2009 - 2013** B.Eng. in Pharmaceutical Engineering
   North Minzu University  
 
 # Thesis Supervision
-
 ## PhD thesis  
-
 1. Sustainable recycling of retired photovoltaic modules using non-toxic alpha-amino acids (2024-2027).
 2. High-value and efficient recycling of lithium iron phosphate batteries towards circular economy (2023-2026).
-
 ## MPhil thesis  
-
 1. Cleaner recovery of base metals from waste printed circuit boards using organic ammines (2024-2026)
 2. Recovery of critical metals from retired Ni-Co-Mn batteries using green and reductive lixiviant (2025-2027)
 3. Recovery of precious metals from waste printed circuit boards based on green coordination chemistry (2025-2027)
-
-# Teaching delivery
-
+# Teaching Delivery
 1. 2021 – 2022, Engineering Industry Research Project (ENGR4000 and ENGR4001), Curtin University. Report and presentation marking, final year project supervision.
 2. 2025 – present, Frontiers of Energy Conservation and Environmental Protection Technologies, University of Science and Technology of China. Co-lecturing.
 
@@ -75,7 +63,28 @@ Driven by the global imperatives of **energy transition** and **decarbonization*
 -	Mathematics of Information Technology and Complex Systems (Mitacs), Canada
 -	Ad hoc reviewer for about 20 academic journals
 
-# Journal publications 
+# Conference Presentations
+- 2025 International Conference on Resource Sustainability (icRS 2025)  
+15-18 July 2025	                Adelaide, Australia  
+Sustainable Recovery of Silver from Waste Photovoltaic Cells Using Alpha-Amino Acids  
+**Li H.** (speaker), Gu J., Xie W., Xie J., Yuan H., Eksteen J.
+
+- 27th ALTA Metallurgical Conference  
+1-4 May 2023	                Perth, Australia  
+Process Development for Hydrometallurgical Recovery of Base and Precious Metals from Waste Printed Circuit Boards  
+**Li H.** (speaker), Oraby E. Eksteen J.
+
+- Lithium Battery and Energy Metals Conference  
+01-02 September 2021					Perth, Australia  
+Overview of lithium recovery from hard rocks using fluorochemical processes: Our experiences in a decade  
+**Li H.** (speaker), Eksteen J., Kuang G., Guo H.
+
+- International Lithium and Battery Metals Conference  
+03-04 July 2019					Perth, Australia  
+Recovery of lithium from mineral resources: State-of-the-art and perspectives  
+**Li H.** (speaker), Eksteen J., Ge K.
+
+# Journal Publications 
 For a full list of my publications, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=XGel0o0AAAAJ&hl=en).
 ## 2025
 - **Huan Li**; Elsayed Oraby, Jacques Eksteen, et al.; Extraction of precious metals from waste printed circuit boards using alkaline ferricyanide solutions: An exploratory study, Minerals Engineering 2025, 222: 109144 (IF=5, JCR Q1). 
@@ -108,32 +117,11 @@ For a full list of my publications, please refer to my [Google Scholar profile](
 -	**Huan Li**; Jacques Eksteen; Elsayed Oraby; Hydrometallurgical recovery of metals from waste printed circuit boards (WPCBs): Current status and perspectives: A review, Resources, Conservation and Recycling, 2018, 139: 122-139 (IF=10.9, JCR Q1, cited >320 times).
 -	Ge Kuang; Yu Liu; **Huan Li**; Shengzhou Xing; Fujie Li; Hui Guo; Extraction of lithium from β-spodumene using sodium sulfate solution, Hydrometallurgy, 2018, 177: 49-56 (IF=5.3, JCR Q1).
 ## 2017
--	**Huan Li**; Shengzhou Xing; Yu Liu; Fujie Li; Hui Guo; Ge Kuang; Recovery of Lithium, Iron, and Phosphorus from Spent LiFePO4 Batteries Using Stoichiometric Sulfuric Acid Leaching System, ACS Sustainable Chemistry and Engineering, 2017, 5(9): 8017–8024 (IF=7.3, JCR Q1, ESI TOP 1% Highly Cited paper, cited >400 times).
+-	**Huan Li**; Shengzhou Xing; Yu Liu; Fujie Li; Hui Guo; Ge Kuang; Recovery of Lithium, Iron, and Phosphorus from Spent LiFePO4 Batteries Using Stoichiometric Sulfuric Acid Leaching System, ACS Sustainable Chemistry and Engineering, 2017, 5(9): 8017–8024 (IF=7.3, JCR Q1, **ESI TOP 1% Highly Cited** paper, cited **>410** times).
 ## 2016
 -	**Huan Li**; Ge Kuang; Song Hu; Hui Guo; Ran Jin; Rohit L. Vekariya; Removal of aluminum from leaching solution of lepidolite by adding ammonium. JOM, 2016, 68(10): 2653-2658.
 -	旷戈；胡松；蔡洋洋；**李欢**; 紫金铜尾矿中明矾石直接加压酸浸. 中国有色金属学报, 2016, 26(11): 2412-2419.
 ## 2015
 -	Ge Kuang; **Huan Li**; Song Hu; Ran Jin; Shanjun Liu; Hui Guo; Recovery of aluminium and lithium from gypsum residue obtained in the process of lithium extraction from lepidolite. Hydrometallurgy, 2015, 157: 214-218 (IF=5.3, JCR Q1).
 
-# Conference presentations
-- 2025 INTERNATIONAL CONFERENCE ON RESOURCE SUSTAINABILITY (ICRS 2025)  
-15-18 July 2025	                Adelaide, Australia  
-Sustainable Recovery of Silver from Waste Photovoltaic Cells Using Alpha-Amino Acids  
-Li H. (speaker), Gu J., Xie W., Xie J., Yuan H., Eksteen J.
-
-
-- 27TH ALTA METALLURGICAL CONFERENCE  
-1-4 May 2023	                Perth, Australia  
-Process Development for Hydrometallurgical Recovery of Base and Precious Metals from Waste Printed Circuit Boards  
-Li H. (speaker), Oraby E. Eksteen J.
-
-- LITHIUM BATTERY AND ENERGY METALS CONFERENCE  
-01-02 September 2021					Perth, Australia  
-Overview of lithium recovery from hard rocks using fluorochemical processes: Our experiences in a decade  
-Li H. (speaker), Eksteen J., Kuang G., Guo H.
-
-- INTERNATIONAL LITHIUM AND BATTERY METALS CONFERENCE  
-03-04 July 2019					Perth, Australia  
-Recovery of lithium from mineral resources: State-of-the-art and perspectives  
-Li H. (speaker), Eksteen J., Ge K.
 
