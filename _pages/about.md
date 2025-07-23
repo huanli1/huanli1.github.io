@@ -31,7 +31,7 @@ Driven by the global imperatives of **energy transition** and **decarbonization*
   **Supervisor**: A/Prof Ting-Hsuan Chen 
 - **2013 - 2016** M.Eng. in Chemical Engineering (by research)  
   Fuzhou University   
-  **Thesis**: “Investigation of LiFePO<sub>4</sub>-based spent lithium-ion battery for the recovery of valuable metals”
+  **Thesis**: “Investigation of LiFePO<sub>4</sub>-based spent lithium-ion battery for the recovery of valuable metals”  
   **Supervisor**: Prof Ge Kuang
 - **2009 - 2013** B.Eng. in Pharmaceutical Engineering  
   North Minzu University  
@@ -44,15 +44,16 @@ Driven by the global imperatives of **energy transition** and **decarbonization*
 1. Cleaner recovery of base metals from waste printed circuit boards using organic ammines (2024-2026)
 2. Recovery of critical metals from retired Ni-Co-Mn batteries using green and reductive lixiviant (2025-2027)
 3. Recovery of precious metals from waste printed circuit boards based on green coordination chemistry (2025-2027)
+
 # Teaching Delivery
 1. 2021 – 2022, Engineering Industry Research Project (ENGR4000 and ENGR4001), Curtin University. Report and presentation marking, final year project supervision.
 2. 2025 – present, Frontiers of Energy Conservation and Environmental Protection Technologies, University of Science and Technology of China. Co-lecturing.
 
 # Academic Services
 ## Early-Career Editor Board 
--	Carbon Neutralization (IF=12, JCR Q1, Wiley)
--	Transactions of Nonferrous Metals Society of China (IF=4.7, JCR Q1, Elsevier)
--	Green and Smart Mining Engineering (Elsevier)
+-	[Carbon Neutralization](https://onlinelibrary.wiley.com/journal/27693325) (IF=12, JCR Q1, Wiley)
+-	[Transactions of Nonferrous Metals Society of China](https://www.sciencedirect.com/journal/transactions-of-nonferrous-metals-society-of-china) (IF=4.7, JCR Q1, Elsevier)
+-	[Green and Smart Mining Engineering](https://www.sciencedirect.com/journal/green-and-smart-mining-engineering) (Elsevier)
 ## Guest Editor
 -	Special Issue for Minerals (IF: 2.2, JCR Q2) 
 -	Special Issue for Sustainability (IF: 3.3, JCR Q2)
