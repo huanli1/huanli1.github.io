@@ -114,30 +114,30 @@ For a full list of my publications, please refer to my [Google Scholar profile](
 -	王鹏；刘慧勇；黄海；旷戈；**李欢**; [基于钾明矾结晶热解的粉煤灰酸法生产氧化铝研究](http://www.ysxbcn.com/paper/paperview.aspx?id=paper_791646), 中国有色金属学报, 2022，32 (2): 509–520.
 
 ## 2021
--	Hui Guo, Ge Kuang, **Huan Li**, W Pei, H Wang; Enhanced lithium leaching from lepidolite in continuous tubular reactor using H2SO4 + H2SiF6 as lixiviant, Transactions of Nonferrous Metals Society of China 2021, 31 (7): 2165-2173.
--	**Huan Li**; Elsayed Oraby; Jacques Eksteen; Cyanide consumption minimisation and concomitant toxic effluent minimisation during precious metals extraction from waste printed circuit boards, Waste Management, 2021, 125: 87-97 (IF=7.1, JCR Q1).
--	**Huan Li**; Elsayed Oraby; Jacques Eksteen; Recovery of copper and the deportment of other base metals from alkaline glycine leachates derived from waste printed circuit boards (WPCBs), Hydrometallurgy, 2021, 199: 105540 (IF=5.3, JCR Q1).
--	Peng Wang; Huiyong Liu; Fangyan Zheng; Yue Liu; Ge Kuang; Rongdong Deng; **Huan Li**; Extraction of aluminum from coal fly ash using pressurized sulfuric acid leaching with emphasis on optimization and mechanism, JOM, 2021, 73: 2643–2651.
+-	Hui Guo, Ge Kuang, **Huan Li**, W Pei, H Wang; [Enhanced lithium leaching from lepidolite in continuous tubular reactor using H2SO4 + H2SiF6 as lixiviant](http://dx.doi.org/10.1016/S1003-6326(21)65646-7), Transactions of Nonferrous Metals Society of China 2021, 31 (7): 2165-2173.
+-	**Huan Li**; Elsayed Oraby; Jacques Eksteen; [Cyanide consumption minimisation and concomitant toxic effluent minimisation during precious metals extraction from waste printed circuit boards](http://dx.doi.org/10.1016/j.wasman.2021.02.033), Waste Management, 2021, 125: 87-97 (IF=7.1, JCR Q1).
+-	**Huan Li**; Elsayed Oraby; Jacques Eksteen; [Recovery of copper and the deportment of other base metals from alkaline glycine leachates derived from waste printed circuit boards (WPCBs)](http://dx.doi.org/10.1016/j.hydromet.2020.105540), Hydrometallurgy, 2021, 199: 105540 (IF=5.3, JCR Q1).
+-	Peng Wang; Huiyong Liu; Fangyan Zheng; Yue Liu; Ge Kuang; Rongdong Deng; **Huan Li**; [Extraction of aluminum from coal fly ash using pressurized sulfuric acid leaching with emphasis on optimization and mechanism](http://dx.doi.org/10.1007/s11837-021-04801-z), JOM, 2021, 73: 2643–2651.
 
 ## 2020
--	Elsayed Oraby; **Huan Li**; Jacques Eksteen; An alkaline glycine-based leach process of base and precious metals from powdered waste printed circuit boards. Waste and Biomass Valorization, 2020, 11(8): 3897-3909.
--	**Huan Li**; Elsayed Oraby; Jacques Eksteen; Extraction of copper and the co-leaching behaviour of other metals from waste printed circuit boards using alkaline glycine solutions, Resources, Conservation and Recycling, 2020, 154: 104624 (IF=10.9, JCR Q1, cited >90 times).
+-	Elsayed Oraby; **Huan Li**; Jacques Eksteen; [An alkaline glycine-based leach process of base and precious metals from powdered waste printed circuit boards](https://link.springer.com/article/10.1007/s12649-019-00780-0). Waste and Biomass Valorization, 2020, 11(8): 3897-3909.
+-	**Huan Li**; Elsayed Oraby; Jacques Eksteen; [Extraction of copper and the co-leaching behaviour of other metals from waste printed circuit boards using alkaline glycine solutions](http://dx.doi.org/10.1016/j.resconrec.2019.104624), Resources, Conservation and Recycling, 2020, 154: 104624 (IF=10.9, JCR Q1, cited >90 times).
 
 ## 2019
--	**Huan Li**; Jacques Eksteen; Ge Kuang; Recovery of lithium from mineral resources: State-of-the-art and perspectives – A review, Hydrometallurgy, 2019, 189: 105129 (IF=5.3, JCR Q1, cited >220 times).  
+-	**Huan Li**; Jacques Eksteen; Ge Kuang; [Recovery of lithium from mineral resources: State-of-the-art and perspectives – A review](http://dx.doi.org/10.1016/j.hydromet.2019.105129), Hydrometallurgy, 2019, 189: 105129 (IF=5.3, JCR Q1, cited >220 times).  
 
 ## 2018
--	**Huan Li**; Jacques Eksteen; Elsayed Oraby; Hydrometallurgical recovery of metals from waste printed circuit boards (WPCBs): Current status and perspectives: A review, Resources, Conservation and Recycling, 2018, 139: 122-139 (IF=10.9, JCR Q1, cited >320 times).
--	Ge Kuang; Yu Liu; **Huan Li**; Shengzhou Xing; Fujie Li; Hui Guo; Extraction of lithium from β-spodumene using sodium sulfate solution, Hydrometallurgy, 2018, 177: 49-56 (IF=5.3, JCR Q1).
+-	**Huan Li**; Jacques Eksteen; Elsayed Oraby; [Hydrometallurgical recovery of metals from waste printed circuit boards (WPCBs): Current status and perspectives: A review](http://dx.doi.org/10.1016/j.resconrec.2018.08.007), Resources, Conservation and Recycling, 2018, 139: 122-139 (IF=10.9, JCR Q1, cited >320 times).
+-	Ge Kuang; Yu Liu; **Huan Li**; Shengzhou Xing; Fujie Li; Hui Guo; [Extraction of lithium from β-spodumene using sodium sulfate solution](http://dx.doi.org/10.1016/j.hydromet.2018.02.015), Hydrometallurgy, 2018, 177: 49-56 (IF=5.3, JCR Q1).
 
 ## 2017
--	**Huan Li**; Shengzhou Xing; Yu Liu; Fujie Li; Hui Guo; Ge Kuang; Recovery of Lithium, Iron, and Phosphorus from Spent LiFePO4 Batteries Using Stoichiometric Sulfuric Acid Leaching System, ACS Sustainable Chemistry and Engineering, 2017, 5(9): 8017–8024 (IF=7.3, JCR Q1, **ESI TOP 1% Highly Cited** paper, cited **>410** times).
+-	**Huan Li**; Shengzhou Xing; Yu Liu; Fujie Li; Hui Guo; Ge Kuang; [Recovery of Lithium, Iron, and Phosphorus from Spent LiFePO4 Batteries Using Stoichiometric Sulfuric Acid Leaching System](http://dx.doi.org/10.1021/acssuschemeng.7b01594), ACS Sustainable Chemistry and Engineering, 2017, 5(9): 8017–8024 (IF=7.3, JCR Q1, **ESI TOP 1% Highly Cited** paper, cited **>410** times).
 
 ## 2016
--	**Huan Li**; Ge Kuang; Song Hu; Hui Guo; Ran Jin; Rohit L. Vekariya; Removal of aluminum from leaching solution of lepidolite by adding ammonium. JOM, 2016, 68(10): 2653-2658.
--	旷戈；胡松；蔡洋洋；**李欢**; 紫金铜尾矿中明矾石直接加压酸浸. 中国有色金属学报, 2016, 26(11): 2412-2419.
+-	**Huan Li**; Ge Kuang; Song Hu; Hui Guo; Ran Jin; Rohit L. Vekariya; [Removal of aluminum from leaching solution of lepidolite by adding ammonium](http://dx.doi.org/10.1007/s11837-016-2080-1). JOM, 2016, 68(10): 2653-2658.
+-	旷戈；胡松；蔡洋洋；**李欢**; [紫金铜尾矿中明矾石直接加压酸浸](http://www.ysxbcn.com/paper/paperview.aspx?id=paper_312488#:~:text=Based%20on%20experimental%20research%2C%20the%20optimal%20leaching%20parameters,main%20chemical%20composition%20of%20leaching%20residue%20is%20SiO2.). 中国有色金属学报, 2016, 26(11): 2412-2419.
 
 ## 2015
--	Ge Kuang; **Huan Li**; Song Hu; Ran Jin; Shanjun Liu; Hui Guo; Recovery of aluminium and lithium from gypsum residue obtained in the process of lithium extraction from lepidolite. Hydrometallurgy, 2015, 157: 214-218 (IF=5.3, JCR Q1).
+-	Ge Kuang; **Huan Li**; Song Hu; Ran Jin; Shanjun Liu; Hui Guo; [Recovery of aluminium and lithium from gypsum residue obtained in the process of lithium extraction from lepidolite](http://dx.doi.org/10.1016/j.hydromet.2015.08.020). Hydrometallurgy, 2015, 157: 214-218 (IF=5.3, JCR Q1).
 
 
