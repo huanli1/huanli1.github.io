@@ -70,30 +70,11 @@ MPhil thesis
 -	Ad hoc reviewer for about 20 academic journals
 
 # Conference Presentations
-1. 2025 International Conference on Resource Sustainability (icRS 2025)  
-15-18 July 2025	                Adelaide, Australia  
-"Sustainable Recovery of Silver from Waste Photovoltaic Cells Using Alpha-Amino Acids"  
-**Li H.** (speaker), Gu J., Xie W., Xie J., Yuan H., Eksteen J.
-
-2. The 17th International Symposium on East Asian Resources Recycling Technology  
-1-4 November 2024	                Changsha, China  
-"Application of alkaline amino acid leaching systems in the hydrometallurgical recycling of e-waste"  
-**Li H.** (speaker), Oraby E., Eksteen J., Xie W., Gu J., Yuan H.
-
-3. 27th ALTA Metallurgical Conference  
-1-4 May 2023	                Perth, Australia  
-"Process Development for Hydrometallurgical Recovery of Base and Precious Metals from Waste Printed Circuit Boards"  
-**Li H.** (speaker), Oraby E. Eksteen J.
-
-4. Lithium Battery and Energy Metals Conference  
-01-02 September 2021					Perth, Australia  
-"Overview of lithium recovery from hard rocks using fluorochemical processes: Our experiences in a decade"  
-**Li H.** (speaker), Eksteen J., Kuang G., Guo H.
-
-5. International Lithium and Battery Metals Conference  
-03-04 July 2019					Perth, Australia  
-"Recovery of lithium from mineral resources: State-of-the-art and perspectives"  
-**Li H.** (speaker), Eksteen J., Ge K.
+1.	**Li H.** (speaker), Gu J., Xie W., Xie J., Yuan H., Eksteen J., Sustainable Recovery of Silver from Waste Photovoltaic Cells Using Alpha-Amino Acids. 2025 International Conference on Resource Sustainability (icRS 2025), 15-18 July 2025, Adelaide, Australia.
+2.	**Li H.** (Speaker), Oraby E., Eksteen J., Xie W., Gu J., Yuan H., Application of alkaline amino acid leaching systems in the hydrometallurgical recycling of e-waste. 17th International Symposium on East Asian Resources Recycling Technology, 1-4 November 2024, Changsha, China.
+3.	**Li H.** (speaker), Oraby E., Eksteen J., Process Development for Hydrometallurgical Recovery of Base and Precious Metals from Waste Printed Circuit Boards. 27th ALTA Metallurgical Conference, 1-4 May 2023, Perth, Australia.
+4.	**Li H.** (speaker), Eksteen J., Kuang G., Guo H., Overview of lithium recovery from hard rocks using fluorochemical processes: Our experiences in a decade. Lithium Battery and Energy Metals Conference, 1-2 September 2021, Perth, Australia.
+5.	**Li H.** (speaker), Eksteen J., Ge K., Recovery of lithium from mineral resources: State-of-the-art and perspectives. International Lithium and Battery Metals Conference, 3-4 July 2019, Perth, Australia.
 
 # Journal Publications 
 For a full list of my publications, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=XGel0o0AAAAJ&hl=en).
