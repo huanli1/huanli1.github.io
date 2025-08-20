@@ -76,6 +76,15 @@ MPhil thesis
 4.	**Li H.** (speaker), Eksteen J., Kuang G., Guo H., Overview of lithium recovery from hard rocks using fluorochemical processes: Our experiences in a decade. Lithium Battery and Energy Metals Conference, 1-2 September 2021, Perth, Australia.
 5.	**Li H.** (speaker), Eksteen J., Ge K., Recovery of lithium from mineral resources: State-of-the-art and perspectives. International Lithium and Battery Metals Conference, 3-4 July 2019, Perth, Australia.
 
+# Patents
+1.	Yuan H.*, Liu Z., Gu J., **Li H.**, et al., A method for preparing battery-grade lithium carbonate from nanostructured lithium-enriched solution. CN Patent: 120057959A (published).
+2.	Yuan H.*, Liu Z., Gu J., **Li H.**, et al., A method for stripping the positive and negative electrodes of lithium batteries with ultrafine sparkling water. CN Patent: 202511123882.5 (published).
+3.	Yuan H.*,  Liu Z., Gu J., **Li H.**, et al., A method for the flash preparation of lithium iron manganese phosphate from iron phosphate slag and spent lithium manganate. CN Patent: 202511123884.4 (published).
+4.	Kuang G.*, **Li H.**, Hu S., et al., Method for recycling lithium iron phosphate battery used in electric vehicles. CN Patent: 105244564 B (granted). 		  
+5.	Kuang G.*, Hu S., Cai Y., **Li H.**, et al., Method for potassium and aluminium extractions from alunite by direct pressurised acid leaching. CN Patent: 105217658 B (granted).
+6.	Kuang G.*, Sun J., Yang J., Jin R., Hu S., **Li H.**, et al., Method for producing lithium hydroxide from spodumene by digestion in a continuous tubular reactor. CN Patent: 104003428 B (granted). 
+
+
 # Journal Publications 
 For a full list of my publications, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=XGel0o0AAAAJ&hl=en).
 ## 2025
