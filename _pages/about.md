@@ -18,39 +18,6 @@ Driven by the global imperatives of **energy transition** and **decarbonization*
 -	Battery and energy metals extraction & refining from primary resources (lithium, nickel, cobalt, copper, gold, PGMs, etc.)
 -	Sustainable recycling of metal-bearing solid waste (e-waste, solar PV modules, EV batteries, etc.)
 
-# Education
-- **2017 - 2021** Ph.D. in Mining and Metallurgical Engineering  
-  Curtin University  
-  **Thesis**: “Sustainable recovery of base and precious metals from waste printed circuit boards using alkaline glycine processes”  
-  **Supervisors**: Prof Jacques Eksteen and A/Prof Elsayed Oraby
-- **2020 - 2021** Industry Mentee – Mining and Metallurgy  
-  Industry Mentoring Network in STEM (IMNIS), Australian Academy of Technology and Engineering  
-  **Mentor**: Mr Chris Torrisi (Lynas Rare Earths Ltd)
-- **2016 - 2017** Ph.D. Program in Mechanical and Biomedical Engineering (withdrawn)  
-  City University of Hong Kong  
-  **Supervisor**: A/Prof Ting-Hsuan Chen 
-- **2013 - 2016** M.Eng. in Chemical Engineering (by research)  
-  Fuzhou University   
-  **Thesis**: “Investigation of LiFePO<sub>4</sub>-based spent lithium-ion battery for the recovery of valuable metals”  
-  **Supervisor**: Prof Ge Kuang
-- **2009 - 2013** B.Eng. in Pharmaceutical Engineering  
-  North Minzu University  
-
-# Thesis Supervision
-## PhD thesis  
-1. Sustainable recycling of retired photovoltaic modules using non-toxic alpha-amino acids (2024-2027).
-2. High-value and efficient recycling of lithium iron phosphate batteries towards circular economy (2023-2026).
-
-MPhil thesis
-------
-1. Cleaner recovery of base metals from waste printed circuit boards using organic ammines (2024-2026)
-2. Recovery of critical metals from retired Ni-Co-Mn batteries using green and reductive lixiviant (2025-2027)
-3. Recovery of precious metals from waste printed circuit boards based on green coordination chemistry (2025-2027)
-
-# Teaching Delivery
-1. 2021 – 2022, Engineering Industry Research Project (ENGR4000 and ENGR4001), Curtin University. Report and presentation marking, final year project supervision.
-2. 2025 – present, Frontiers of Energy Conservation and Environmental Protection Technologies, University of Science and Technology of China. Co-lecturing.
-
 # Academic Services
 ## Early-Career Editor Board 
 -	[Carbon Neutralization](https://onlinelibrary.wiley.com/journal/27693325) (IF=12, JCR Q1, Wiley)
@@ -67,7 +34,7 @@ MPhil thesis
 
 ## As Reviewer
 -	Mathematics of Information Technology and Complex Systems (Mitacs), Canada
--	Ad hoc reviewer for about 20 academic journals
+-	Ad hoc reviewer for about 30 academic journals
 
 # Conference Presentations
 1.	**Li H.** (speaker), Gu J., Xie W., Xie J., Yuan H., Eksteen J., Sustainable Recovery of Silver from Waste Photovoltaic Cells Using Alpha-Amino Acids. 2025 International Conference on Resource Sustainability (icRS 2025), 15-18 July 2025, Adelaide, Australia.
@@ -76,24 +43,17 @@ MPhil thesis
 4.	**Li H.** (speaker), Eksteen J., Kuang G., Guo H., Overview of lithium recovery from hard rocks using fluorochemical processes: Our experiences in a decade. Lithium Battery and Energy Metals Conference, 1-2 September 2021, Perth, Australia.
 5.	**Li H.** (speaker), Eksteen J., Ge K., Recovery of lithium from mineral resources: State-of-the-art and perspectives. International Lithium and Battery Metals Conference, 3-4 July 2019, Perth, Australia.
 
-# Patents
-1.	Yuan H.*, Liu Z., Gu J., **Li H.**, et al., A method for preparing battery-grade lithium carbonate from nanostructured lithium-enriched solution. CN Patent: 120057959A (published).
-2.	Yuan H.*, Liu Z., Gu J., **Li H.**, et al., A method for stripping the positive and negative electrodes of lithium batteries with ultrafine sparkling water. CN Patent: 202511123882.5 (published).
-3.	Yuan H.*,  Liu Z., Gu J., **Li H.**, et al., A method for the flash preparation of lithium iron manganese phosphate from iron phosphate slag and spent lithium manganate. CN Patent: 202511123884.4 (published).
-4.	Kuang G.*, **Li H.**, Hu S., et al., Method for recycling lithium iron phosphate battery used in electric vehicles. CN Patent: 105244564 B (granted). 		  
-5.	Kuang G.*, Hu S., Cai Y., **Li H.**, et al., Method for potassium and aluminium extractions from alunite by direct pressurised acid leaching. CN Patent: 105217658 B (granted).
-6.	Kuang G.*, Sun J., Yang J., Jin R., Hu S., **Li H.**, et al., Method for producing lithium hydroxide from spodumene by digestion in a continuous tubular reactor. CN Patent: 104003428 B (granted). 
-
-
 # Journal Publications 
 For a full list of my publications, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=XGel0o0AAAAJ&hl=en).
+
 ## 2025
-1. 谢文浩; **李欢**; 谢建军; 顾菁; 袁浩然; 退役晶体硅光伏电池碱法回收工艺研究, 中南大学学报(自然科学版), 2025, 56, 8: 3560-3569.
-2. Xie, W., **Li, H.**, Xie, J., Gu, J., Yuan, H., & Eksteen, J. Sustainable recovery of silver from crystalline-silicon photovoltaic cells using non-toxic ɑ-amino acids. Separation and Purification Technology, 2026, 380, 1: 135162.
-3. Zhang, H., Dong, S., Chen, W., Shi, X., **Li, H.**, Jin, X., Guo, H. and Long, H.; [A Sustainable Hydrometallurgy Protocol of Ultrasonic-Assisted Leaching and Multi-Stage Separation for Recovery of Critical Metals from Spent NCM Lithium-Ion Batteries](https://www.sciencedirect.com/science/article/abs/pii/S0957582025009838), Process Safety and Environmental Protection, 2025, 202, A: 107716.
-4. **Li, H.**, Oraby, E., Eksteen, J., Xie, W., Gu, J. and Yuan, H.; [Extraction of precious metals from waste printed circuit boards using alkaline ferricyanide solutions: An exploratory study](https://www.sciencedirect.com/science/article/abs/pii/S0892687524005739?via%3Dihub), Minerals Engineering 2025, 222: 109144 (IF=5, JCR Q1).
-5. **Li, H.**, Oraby, E. and Eksteen, J.; [An alternative amino acid leaching of base metals from waste printed circuit boards using alkaline glutamate solutions: A comparative study with glycine](https://www.sciencedirect.com/science/article/abs/pii/S138358662403692X?via%3Dihub), Separation and Purification Technology, 2025, 356, B: 129953 (IF=9, JCR Q1).
-6.	Yang, Y., Zhang, H., Kuang, G., **Li, H.**, Guo, H., Jin, X., Gan, M. and Long, H.; [Ultrasonic-assisted alkali leaching coupled gas sorting process to separate cathode and anode materials from spent LiFePO4 batteries](https://www.sciencedirect.com/science/article/abs/pii/S025527012500056X?via%3Dihub), Chemical Engineering and Processing-Process Intensification, 2025, 209: 110207.
+1. Wang, C., Wang, L., Yu, H., **Li, H.**, Ren, J., & Shon, H. K. [Integrating machine learning and transfer learning for data-driven prediction of lithium and rubidium adsorption](https://www.sciencedirect.com/science/article/pii/S1383586625045046). Separation and Purification Technology, 2026, 382, 2: 135907.
+2. 谢文浩; **李欢**; 谢建军; 顾菁; 袁浩然; [退役晶体硅光伏电池碱法回收工艺研究](https://zngd.publish.founderss.cn/thesisDetails?columnId=126372646&Fpath=home&index=0&l=zh&lang=zh), 中南大学学报(自然科学版), 2025, 56, 8: 3560-3569.
+3. Xie, W., **Li, H.**, Xie, J., Gu, J., Yuan, H., & Eksteen, J. [Sustainable recovery of silver from crystalline-silicon photovoltaic cells using non-toxic ɑ-amino acids](https://www.sciencedirect.com/science/article/abs/pii/S1383586625037591). Separation and Purification Technology, 2026, 380, 1: 135162.
+4. Zhang, H., Dong, S., Chen, W., Shi, X., **Li, H.**, Jin, X., Guo, H. and Long, H.; [A Sustainable Hydrometallurgy Protocol of Ultrasonic-Assisted Leaching and Multi-Stage Separation for Recovery of Critical Metals from Spent NCM Lithium-Ion Batteries](https://www.sciencedirect.com/science/article/abs/pii/S0957582025009838), Process Safety and Environmental Protection, 2025, 202, A: 107716.
+5. **Li, H.**, Oraby, E., Eksteen, J., Xie, W., Gu, J. and Yuan, H.; [Extraction of precious metals from waste printed circuit boards using alkaline ferricyanide solutions: An exploratory study](https://www.sciencedirect.com/science/article/abs/pii/S0892687524005739?via%3Dihub), Minerals Engineering 2025, 222: 109144 (IF=5, JCR Q1).
+6. **Li, H.**, Oraby, E. and Eksteen, J.; [An alternative amino acid leaching of base metals from waste printed circuit boards using alkaline glutamate solutions: A comparative study with glycine](https://www.sciencedirect.com/science/article/abs/pii/S138358662403692X?via%3Dihub), Separation and Purification Technology, 2025, 356, B: 129953 (IF=9, JCR Q1).
+7.	Yang, Y., Zhang, H., Kuang, G., **Li, H.**, Guo, H., Jin, X., Gan, M. and Long, H.; [Ultrasonic-assisted alkali leaching coupled gas sorting process to separate cathode and anode materials from spent LiFePO4 batteries](https://www.sciencedirect.com/science/article/abs/pii/S025527012500056X?via%3Dihub), Chemical Engineering and Processing-Process Intensification, 2025, 209: 110207.
 
 ## 2024
 1.	**Huan Li**; Elsayed Oraby; Jacques Eksteen; [Application of nanofiltration for the recovery of nickel glycinates from alkaline glycine-based solutions using polyamide membranes: A technical note](https://www.sciencedirect.com/science/article/pii/S0304386X24001087?via%3Dihub), Hydrometallurgy, 2024, 228: 106368 (IF=5.3, JCR Q1).
