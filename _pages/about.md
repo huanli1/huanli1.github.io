@@ -47,7 +47,7 @@ Driven by the global imperatives of **energy transition** and **decarbonization*
 For a full list of my publications, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=XGel0o0AAAAJ&hl=en).
 
 ## 2025
-1. **Li, H.**, Wang, L., Oraby, E., & Eksteen, J. [Machine-learning-assisted optimization of glutamate leaching followed by sulfide precipitation for base metal recovery from waste printed circuit boards](https://www.sciencedirect.com/science/article/pii/S2950555025000825). Green and Smart Mining Engineering, 2025, in press.
+1. **Li, H.***, Wang, L., Oraby, E., & Eksteen, J. [Machine-learning-assisted optimization of glutamate leaching followed by sulfide precipitation for base metal recovery from waste printed circuit boards](https://www.sciencedirect.com/science/article/pii/S2950555025000825). Green and Smart Mining Engineering, 2025, in press.
 2. Wang, R., **Li, H.**, Xie, W., Xie, J., Gu, J., Wang, S., & Yuan, H. [A novel method of copper leaching from waste printed circuit boards using aliphatic organic amines: A comparative study](https://www.sciencedirect.com/science/article/abs/pii/S1383586625047549). Separation and Purification Technology, 2026, 136157.
 3. Wang, C., Wang, L., Yu, H., **Li, H.**, Ren, J., & Shon, H. K. [Integrating machine learning and transfer learning for data-driven prediction of lithium and rubidium adsorption](https://www.sciencedirect.com/science/article/pii/S1383586625045046). Separation and Purification Technology, 2026, 382, 2: 135907.
 4. 谢文浩; **李欢**; 谢建军; 顾菁; 袁浩然; [退役晶体硅光伏电池碱法回收工艺研究](https://zngd.publish.founderss.cn/thesisDetails?columnId=126372646&Fpath=home&index=0&l=zh&lang=zh), 中南大学学报(自然科学版), 2025, 56, 8: 3560-3569.
