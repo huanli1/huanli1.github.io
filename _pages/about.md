@@ -18,6 +18,24 @@ Driven by the global imperatives of **energy transition** and **decarbonization*
 -	Battery and energy metals extraction & refining from primary resources (lithium, nickel, cobalt, copper, gold, PGMs, etc.)
 -	Sustainable recycling of metal-bearing solid waste (e-waste, solar PV modules, EV batteries, etc.)
 
+# Education
+- **2017 - 2021** Ph.D. in Mining and Metallurgical Engineering  
+  Curtin University  
+  **Thesis**: “Sustainable recovery of base and precious metals from waste printed circuit boards using alkaline glycine processes”  
+
+- **2020 - 2021** Industry Mentee – Mining and Metallurgy  
+  Industry Mentoring Network in STEM (IMNIS), Australian Academy of Technology and Engineering  
+
+- **2016 - 2017** Ph.D. Program in Mechanical and Biomedical Engineering (withdrawn)  
+  City University of Hong Kong  
+
+- **2013 - 2016** M.Eng. in Chemical Engineering (by research)  
+  Fuzhou University   
+  **Thesis**: “Investigation of LiFePO<sub>4</sub>-based spent lithium-ion battery for the recovery of valuable metals”  
+
+- **2009 - 2013** B.Eng. in Pharmaceutical Engineering  
+  North Minzu University
+  
 # Academic Services
 ## Early-Career Editor Board 
 -	[Carbon Neutralization](https://onlinelibrary.wiley.com/journal/27693325) (IF=12, JCR Q1, Wiley)
