@@ -62,6 +62,9 @@ My research focuses on the extraction, separation, and recovery of **critical**,
 # Journal Publications 
 For a full list of my publications, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=XGel0o0AAAAJ&hl=en).
 
+## 2026
+1. Liu, Z., Gu J., **Li H.**, Liu G., Wu Y., Tian S., Yang J., Yuan H., Chen Y. [Nucleation of battery-grade Li2CO3 driven by nanobubbles for spent battery recycling](https://onlinelibrary.wiley.com/doi/10.1002/smll.202512703). Small, 2026, https://doi.org/10.1002/smll.202512703.
+
 ## 2025
 1. **Li, H.**, Wang, L., Oraby, E., & Eksteen, J. [Machine-learning-assisted optimization of glutamate leaching followed by sulfide precipitation for base metal recovery from waste printed circuit boards](https://www.sciencedirect.com/science/article/pii/S2950555025000825). Green and Smart Mining Engineering, 2025, 2: 413-426.
 2. Wang, R., **Li, H.**, Xie, W., Xie, J., Gu, J., Wang, S., & Yuan, H. [A novel method of copper leaching from waste printed circuit boards using aliphatic organic amines: A comparative study](https://www.sciencedirect.com/science/article/abs/pii/S1383586625047549). Separation and Purification Technology, 2026, 384, 136157.
