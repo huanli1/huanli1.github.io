@@ -63,7 +63,8 @@ My research focuses on the extraction, separation, and recovery of **critical**,
 For a full list of my publications, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=XGel0o0AAAAJ&hl=en).
 
 ## 2026
-1. Liu, Z., Gu J., **Li H.**, Liu G., Wu Y., Tian S., Yang J., Yuan H., Chen Y. [Nucleation of battery-grade Li2CO3 driven by nanobubbles for spent battery recycling](https://onlinelibrary.wiley.com/doi/10.1002/smll.202512703). Small, 2026, https://doi.org/10.1002/smll.202512703.
+1.Xie, W., **Li, H.**, Wu, B., Xie, J., Gu, J., Peng, H., Yuan, H., Chen, Y. [Recycling of crystalline‑silicon photovoltaic modules in China: Policies, technologies and prospects](https://www.sciencedirect.com/science/article/abs/pii/S2352550926000187?via%3Dihub). Sustainable Production and Consumption, 2026, 64: 37-55.
+2. Liu, Z., Gu J., **Li H.**, Liu G., Wu Y., Tian S., Yang J., Yuan H., Chen Y. [Nucleation of battery-grade Li2CO3 driven by nanobubbles for spent battery recycling](https://onlinelibrary.wiley.com/doi/10.1002/smll.202512703). Small, 2026, https://doi.org/10.1002/smll.202512703.
 
 ## 2025
 1. **Li, H.**, Wang, L., Oraby, E., & Eksteen, J. [Machine-learning-assisted optimization of glutamate leaching followed by sulfide precipitation for base metal recovery from waste printed circuit boards](https://www.sciencedirect.com/science/article/pii/S2950555025000825). Green and Smart Mining Engineering, 2025, 2: 413-426.
