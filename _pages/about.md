@@ -35,24 +35,16 @@ My research focuses on the extraction, separation, and recovery of **critical**,
   North Minzu University
   
 # Academic Services
-## Research Hub
 - Associate Investigator, ARC Research Hub for Photovoltaic Solar Panel Recycling and Sustainability
-## Early-Career Editor Board 
--	[Carbon Neutralization](https://onlinelibrary.wiley.com/journal/27693325) (IF=12, JCR Q1, Wiley)
--	[Transactions of Nonferrous Metals Society of China](https://www.sciencedirect.com/journal/transactions-of-nonferrous-metals-society-of-china) (IF=4.7, JCR Q1, Elsevier)
--	[Green and Smart Mining Engineering](https://www.sciencedirect.com/journal/green-and-smart-mining-engineering) (Elsevier)  
-
-## Guest Editor
--	Special Issue for Minerals (IF: 2.2, JCR Q2) 
--	Special Issue for Sustainability (IF: 3.3, JCR Q2)
-
-## Conference Services
+-	Early-Career Editorial Board Member, [Carbon Neutralization](https://onlinelibrary.wiley.com/journal/27693325) (IF=12, JCR Q1, Wiley)
+-	Early-Career Editorial Board Member, [Transactions of Nonferrous Metals Society of China](https://www.sciencedirect.com/journal/transactions-of-nonferrous-metals-society-of-china) (IF=4.7, JCR Q1, Elsevier)
+-	Early-Career Editorial Board Member, [Green and Smart Mining Engineering](https://www.sciencedirect.com/journal/green-and-smart-mining-engineering) (Elsevier)  
+-	Guest Editor, Special Issue for Minerals (IF: 2.2, JCR Q2) 
+-	Guest Editor, Special Issue for Sustainability (IF: 3.3, JCR Q2)
 - Local Organising Committee Member, International Circularity Conference (ICC 2027), Murdoch University
 -	Committee Member, 14th International Conference on Process Hydrometallurgy (Santiago, Chile)
 - Committee Member, 15th International Conference on Process Hydrometallurgy (Santiago, Chile)
-
-## As Reviewer
--	Mathematics of Information Technology and Complex Systems (Mitacs), Canada
+-	Ad hoc reviewer for Mathematics of Information Technology and Complex Systems (Mitacs), Canada
 -	Ad hoc reviewer for about 30 academic journals
 
 # Conference Presentations
