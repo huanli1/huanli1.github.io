@@ -35,6 +35,8 @@ My research focuses on the extraction, separation, and recovery of **critical**,
   North Minzu University
   
 # Academic Services
+## Research Hub
+- Associate Investigator, ARC Research Hub for Photovoltaic Solar Panel Recycling and Sustainability
 ## Early-Career Editor Board 
 -	[Carbon Neutralization](https://onlinelibrary.wiley.com/journal/27693325) (IF=12, JCR Q1, Wiley)
 -	[Transactions of Nonferrous Metals Society of China](https://www.sciencedirect.com/journal/transactions-of-nonferrous-metals-society-of-china) (IF=4.7, JCR Q1, Elsevier)
@@ -45,6 +47,7 @@ My research focuses on the extraction, separation, and recovery of **critical**,
 -	Special Issue for Sustainability (IF: 3.3, JCR Q2)
 
 ## Conference Services
+- Local Organising Committee Member, International Circularity Conference (ICC 2027), Murdoch University
 -	Committee Member, 14th International Conference on Process Hydrometallurgy (Santiago, Chile)
 - Committee Member, 15th International Conference on Process Hydrometallurgy (Santiago, Chile)
 
@@ -53,6 +56,7 @@ My research focuses on the extraction, separation, and recovery of **critical**,
 -	Ad hoc reviewer for about 30 academic journals
 
 # Conference Presentations
+1.  **Li H.** (speaker), Sustainable recycling of end-of-life equipment: E-waste, batteries and solar panels. Recycling Establishment Workshop, Critical Metals for Critical Industry CRC, 23 July 2026, Melbourne, Australia.
 1.  **Li H.** (speaker), Xie W., Gu J., Yuan H., Eksteen J., Hydrometallurgical recovery of silver, aluminium and silicon from photovoltaic cells using benign reagents. International Symposium on Photovoltaic Solar Panel Recycling and Sustainability (PVRS26), 21-23 April 2026, Sydney, Australia.
 2.	**Li H.** (speaker), Gu J., Xie W., Xie J., Yuan H., Eksteen J., Sustainable Recovery of Silver from Waste Photovoltaic Cells Using Alpha-Amino Acids. 2025 International Conference on Resource Sustainability (icRS 2025), 15-18 July 2025, Adelaide, Australia.
 3.	**Li H.** (speaker), Oraby E., Eksteen J., Xie W., Gu J., Yuan H., Application of alkaline amino acid leaching systems in the hydrometallurgical recycling of e-waste. 17th International Symposium on East Asian Resources Recycling Technology, 1-4 November 2024, Changsha, China.
